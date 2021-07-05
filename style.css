@@ -90,7 +90,7 @@ a.middle-banner-link-button{
     border: 1px solid white;
     margin: 15px;
     margin-left: 30px;
-    box-shadow: 10px 10px 20px gray;
+    box-shadow: 8px 8px 21px gray;
     border-radius: 25px;
 }
 .down-food-banner-image{
@@ -115,4 +115,40 @@ h2{
 }
 .down-food-banner-section{
     margin-bottom: 50px;
+}
+.sub-box{
+    display: flex;
+    margin:0px;
+    border: 1px solid black;
+    margin-bottom: 80px;
+    margin-left: 90px;
+    padding-top: 30px;
+    height: 130px;
+    width: 100%;
+    border: 1px solid white;
+    box-shadow: 8px 8px 21px gray;
+    border-radius: 25px;
+
+}
+.flex-box{
+    width: 180px;
+    height: 160px;
+    margin-left: 180px;
+    margin-right: 30px;
+    line-height: 70%;   
+}
+.incresing-number{
+   font-size: 35px;
+   font-weight: bold;
+}
+.extra-in{
+   padding-left: 2px;
+}
+.flex-box-extra{
+    margin-left: 110px;
+    margin-right: 2px;
+}
+.box{
+    width: 1150px;
+    margin-top: 120px;
 }
