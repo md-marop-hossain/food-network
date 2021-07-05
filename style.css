@@ -1,0 +1,40 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0px;
+}
+.top-food-banner{
+    display: flex;
+    margin: 0px;
+}
+.top-food-half-width{
+    width: 50%;
+    padding: 30px;
+    margin-top: 10px;
+    margin-left: 60px;
+}
+.orange-color{
+    color: orange;
+}
+.top-food-banner-image{
+    width: 90%;
+}
+.top-header-font{
+    font-size: 45px;
+}
+.top-food-banner-div{
+    margin-top: 80px;
+}
+.top-banner-text-size{
+    font-size: 20px;
+    margin-bottom: 36px;
+}
+.top-banner-link-button{
+    font-weight: 700%;
+    padding: 10px 29px;
+    background-image: linear-gradient(orange, tomato);
+    text-decoration: none;  
+    color: white;
+    border-radius: 35px;
+    margin-top: 40px;
+
+}
