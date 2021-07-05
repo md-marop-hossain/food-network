@@ -36,5 +36,45 @@ body{
     color: white;
     border-radius: 35px;
     margin-top: 40px;
-
+}
+.middle-food-banner{
+    display: flex;
+    background-image: url(images/shapes/7.png);
+    background-repeat: no-repeat;
+    margin-bottom: 55px;
+    margin-top: 75px;
+    height: 200%;
+    background-size: auto;
+}
+.middle-food-banner-image{
+    width:390px;
+    height: 557px;
+    margin-left: 100px;
+}
+.middle-food-half-width{
+    width: 50%;
+    padding: 30px;
+    margin-top: 10px;
+    margin-left: 60px;
+}
+.middle-food-banner-header{
+    font-weight: 700%;
+    margin-top: 50px;
+    font-size: 50px;
+}
+.middle-food-banner-text-size{
+    font-size: 20px;
+    margin-bottom: 36px;
+}
+a.middle-banner-link-button{
+    font-weight: 700%;
+    padding: 10px 29px;
+    background-image: linear-gradient(orange, tomato);
+    text-decoration: none;  
+    color: white;
+    border-radius: 35px;
+    
+}
+#extra-space{
+    margin-top: 90px;
 }
